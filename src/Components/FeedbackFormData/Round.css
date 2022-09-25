@@ -1,0 +1,16 @@
+.sectionround {
+  height: 100%;
+  background-color: #bebebe;
+  display: flex;
+  flex-direction: column;
+  /* flex-flow: row wrap; */
+  justify-content: space-around;
+  align-items: center;
+}
+
+.cardRound {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+}
